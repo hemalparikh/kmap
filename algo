@@ -1,0 +1,9 @@
+1. Import `canvas` from `sketchpy`.
+2. Define `gate_menu(option)` function.
+3. Use `match option` inside `gate_menu` for different cases. 
+4. Print gate selection menu.
+5. Prompt user for input.
+6. Try to convert user input to an integer.
+7. Call `gate_menu(user_input)` and store result.
+8. Print result.
+9. If `ValueError` occurs, print "Please enter a valid number."
